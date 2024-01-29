@@ -15,7 +15,7 @@ setup(
     'psutil==5.6.3',
     'attrs==19.1.0',
     'mock==2.0.0',
-    'aiohttp==2.3.9'
+    'aiohttp==3.9.2'
   ],
   classifiers=[
     'Development Status :: 3 - Beta',
