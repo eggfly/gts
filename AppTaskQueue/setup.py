@@ -12,7 +12,7 @@ setup(
   install_requires=[
     'appscale-common',
     'celery>=3.1,<4.0.0',
-    'eventlet==0.22',
+    'eventlet==0.35.2',
     'kazoo',
     'monotonic',
     'protobuf',
